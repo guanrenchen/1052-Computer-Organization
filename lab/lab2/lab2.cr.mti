@@ -1,0 +1,43 @@
+C:/KJChen/lab2/F_adder_tb.v {1 {vlog -work work -stats=none C:/KJChen/lab2/F_adder_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module F_adder_tb
+
+Top level modules:
+	F_adder_tb
+
+} {} {}} C:/KJChen/lab2/rip_4bit_tb.v {1 {vlog -work work -stats=none C:/KJChen/lab2/rip_4bit_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module rip_4bit_tb
+
+Top level modules:
+	rip_4bit_tb
+
+} {} {}} C:/KJChen/lab2/adder.v {1 {vlog -work work -stats=none C:/KJChen/lab2/adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} C:/KJChen/lab2/rip_4bit.v {1 {vlog -work work -stats=none C:/KJChen/lab2/rip_4bit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module rip_4bit
+
+Top level modules:
+	rip_4bit
+
+} {} {}} C:/KJChen/lab2/F_adder.v {1 {vlog -work work -stats=none {C:\KJChen\lab2\F_adder.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module F_adder
+
+Top level modules:
+	F_adder
+
+} {} {}} C:/KJChen/lab2/adder_tb.v {1 {vlog -work work -stats=none C:/KJChen/lab2/adder_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder_tb
+
+Top level modules:
+	adder_tb
+
+} {} {}}

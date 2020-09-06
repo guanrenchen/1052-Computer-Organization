@@ -1,0 +1,138 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/KJChen/lab2
+vadder
+Z1 !s110 1492428187
+!i10b 1
+!s100 EBl?0BQ`R^nJij27=9Mlz1
+IAhU2Z2H66NIKgM`5MoOP33
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1492415135
+8C:/KJChen/lab2/adder.v
+FC:/KJChen/lab2/adder.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1492428187.000000
+!s107 C:/KJChen/lab2/adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/KJChen/lab2/adder.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vadder_tb
+R1
+!i10b 1
+!s100 F5j0m;L]0Og46L5i2AgMO1
+IfETVHClmOjPIOU9mH?Y=;2
+R2
+R0
+Z6 w1488982646
+8C:/KJChen/lab2/adder_tb.v
+FC:/KJChen/lab2/adder_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/KJChen/lab2/adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/KJChen/lab2/adder_tb.v|
+!s101 -O0
+!i113 1
+R5
+vF_adder
+R1
+!i10b 1
+!s100 @QLhXBgRgRiNm<i`[B:OI1
+ICco[moBX=_WlXi4INHV143
+R2
+R0
+w1492428181
+8C:\KJChen\lab2\F_adder.v
+FC:\KJChen\lab2\F_adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\KJChen\lab2\F_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\KJChen\lab2\F_adder.v|
+!s101 -O0
+!i113 1
+R5
+n@f_adder
+vF_adder_tb
+R1
+!i10b 1
+!s100 :L4SKbf?8VcYMXYO;Q2iM0
+I_;?mZK9bFNQDohLO8]:Ni0
+R2
+R0
+R6
+8C:/KJChen/lab2/F_adder_tb.v
+FC:/KJChen/lab2/F_adder_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/KJChen/lab2/F_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/KJChen/lab2/F_adder_tb.v|
+!s101 -O0
+!i113 1
+R5
+n@f_adder_tb
+vrip_4bit
+R1
+!i10b 1
+!s100 EHcAV39n]ORfXjJXcD5CY1
+IPIN=oh[gOo0k[]SS7P`N:2
+R2
+R0
+w1492428175
+8C:/KJChen/lab2/rip_4bit.v
+FC:/KJChen/lab2/rip_4bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/KJChen/lab2/rip_4bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/KJChen/lab2/rip_4bit.v|
+!s101 -O0
+!i113 1
+R5
+vrip_4bit_tb
+R1
+!i10b 1
+!s100 C2Y;`Fz0n1QHz4`<5i0h@0
+Ie?^MRT@aZ5Qb8ZfIhA1Kj0
+R2
+R0
+R6
+8C:/KJChen/lab2/rip_4bit_tb.v
+FC:/KJChen/lab2/rip_4bit_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/KJChen/lab2/rip_4bit_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/KJChen/lab2/rip_4bit_tb.v|
+!s101 -O0
+!i113 1
+R5
